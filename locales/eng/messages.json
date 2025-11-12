@@ -1,1 +1,42 @@
-
+{
+  "name": {
+    "description": "Extension's name",
+    "message": "YouTube Without Limits"
+  },
+  "description": {
+    "description": "Extension's description",
+    "message": "Unlock YouTube and enjoy unlimited access for free with YouTube Without Limits!"
+  },
+  "heading": {
+    "description": "Extension's H1 heading 🚀",
+    "message": "YouTube Without Limits 🚀"
+  },
+  "dev": {
+    "description": "🎨 Created by Linux Flow",
+    "message": "🎨 Created by Linux Flow"
+  },
+  "cta": {
+    "description": "Extension's main cta",
+    "message": "Unlock"
+  },
+  "progress": {
+    "description": "Extension's progress copy",
+    "message": "Unlocking..."
+  },
+  "revert": {
+    "description": "Extension's revert proxy copy",
+    "message": "Disable Unlock"
+  },
+  "misc_alert": {
+    "description": "Misc alert message",
+    "message": "Please disable any other extensions used to bypass restrictions to ensure proper functionality."
+  },
+  "misc_alert3": {
+    "description": "Misc alert message 3",
+    "message": "You are likely not connected to the internet."
+  },
+  "android_warning": {
+    "description": "Android compatibility warning",
+    "message": "⚠️ Warning: Proxy API is not available.\n\nOn Android (Kiwi Browser) Proxy API may not work due to system limitations.\n\nThe extension will try to use an alternative method, but functionality may be limited.\n\nIt is recommended to use the extension on desktop Chrome/Edge for full functionality."
+  }
+}
